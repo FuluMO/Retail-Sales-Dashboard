@@ -8,10 +8,17 @@ Total Customers: 1K
 Total Quantities Sold: 2.51K
 
 Features
-Revenue by Month: Tracks sales performance from Jan to Dec, identifying growth trends and patterns.
-Sales by Time of Month: Break down performance into early, mid, and late in the month,for a deeper understanding of purchasing cycles.
-Revenue by Product Category: Analyze which categories contribute most to overall revenue.
-Sales by Age Group: Explore customer demographics (Youth, Young Adults, Adults, Seniors) to identify target markets and refine strategies.
+Revenue by Month: 
+Tracks sales performance from Jan to Dec, identifying growth trends and patterns.
+
+Sales by Time of Month: 
+Break down performance into early, mid, and late in the month,for a deeper understanding of purchasing cycles.
+
+Revenue by Product Category: 
+Analyze which categories contribute most to overall revenue.
+
+Sales by Age Group: 
+Explore customer demographics (Youth, Young Adults, Adults, Seniors) to identify target markets and refine strategies.
 
 Benefits
 Spot top-performing categories and customer segments.
